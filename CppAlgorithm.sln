@@ -3,16 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RunConsole", "RunConsole\RunConsole.vcxproj", "{3F81E717-3741-4D0D-9DA9-B463BDDF9721}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AllAlgorithm", "AllAlgorithm\AllAlgorithm.vcxproj", "{329EF969-E452-4EE7-BD22-877E3AA61F1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
-		Release|Win32 = Release|Win32
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Debug|Win32.ActiveCfg = Debug|Win32
-		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Debug|Win32.Build.0 = Debug|Win32
-		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Release|Win32.ActiveCfg = Release|Win32
-		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Release|Win32.Build.0 = Release|Win32
+		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Debug|x64.ActiveCfg = Debug|x64
+		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Debug|x64.Build.0 = Debug|x64
+		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Release|x64.ActiveCfg = Release|x64
+		{3F81E717-3741-4D0D-9DA9-B463BDDF9721}.Release|x64.Build.0 = Release|x64
+		{329EF969-E452-4EE7-BD22-877E3AA61F1E}.Debug|x64.ActiveCfg = Debug|x64
+		{329EF969-E452-4EE7-BD22-877E3AA61F1E}.Debug|x64.Build.0 = Debug|x64
+		{329EF969-E452-4EE7-BD22-877E3AA61F1E}.Release|x64.ActiveCfg = Release|x64
+		{329EF969-E452-4EE7-BD22-877E3AA61F1E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
